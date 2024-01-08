@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to the "Computer Networking Project - Packet Tracer" repository! This project was developed using Packet Tracer version 8.2.1, showcasing a comprehensive network setup. The architecture comprises 8 routers, 8 switches, 6 PCs, and various servers, including DHCP, FTP, TFTP, Email, and SYSLOG. The network is secured by a Firewall ASA 5506, managed through a Wireless LAN Controller, and features a printer, tunnel connections, and VTP connections.
+Welcome to the "Computer Networking Project" repository! This project was developed using Packet Tracer version 8.2.1, showcasing a comprehensive network setup. The architecture comprises 8 routers, 8 switches, 6 PCs, and various servers, including DHCP, FTP, TFTP, Email, and SYSLOG. The network is secured by a Firewall ASA 5506, managed through a Wireless LAN Controller, and features a printer, tunnel connections, and VTP connections.
 
 ## Key Components
 
